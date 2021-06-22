@@ -1,0 +1,81 @@
+
+/*#menu-button{
+    color: #E5BB22;
+
+}*/
+#menu-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#nama-website{
+    color:#E5BB22;
+    font-weight: bold;
+}
+
+#menu-button-ic{
+    border-color: #E5BB22;
+    color: #E5BB22;
+}
+
+.daftar-button{
+    border: 1px solid;
+    border-color:#E5BB22;
+    border-radius: 10px;
+    background-color:#E5BB22;
+}
+
+.daftar-button:hover{
+    background-color: #DFB621;
+}
+
+#navbarNav a{
+    color: #1F1903;
+    font-weight:500;
+}
+
+#menu-choice a:hover{
+    color: #E5BB22;
+    font-weight:700;
+}
+
+#main-container{
+    margin-top: 100px;
+}
+
+.jumbotron{
+    margin-top: 0px;
+    background-image: url(../image/Desktop.png);
+    background-size: cover;
+    height: 655px;
+    text-align: center;
+}
+
+#jumbootron h1{
+    margin-top:100px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+#jumbootron p{
+    margin-top:50px;
+    font-weight: 200;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+
+#jumbootron a{
+    border: 1px;
+    border-radius: 10px;
+    color: #E5BB22;
+    font-weight: bold;
+}
+
+#jumbootron a:hover{
+    border: 1px solid;
+    border-color: #2C3E50;
+    border-radius: 10px;
+    color: #DFB621;
+    background-color: #2C3E50;
+}
