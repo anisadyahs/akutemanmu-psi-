@@ -1,0 +1,39 @@
+/*#menu-button{
+    color: #E5BB22;
+
+}*/
+#menu-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#nama-website{
+    color:#E5BB22;
+    font-weight: bold;
+}
+
+#menu-button-ic{
+    border-color: #E5BB22;
+    color: #E5BB22;
+}
+
+.daftar-button{
+    border: 1px solid;
+    border-color:#E5BB22;
+    border-radius: 10px;
+    background-color:#E5BB22;
+}
+
+.daftar-button:hover{
+    background-color: #DFB621;
+}
+
+#navbarNav a{
+    color: #1F1903;
+    font-weight:500;
+}
+
+#menu-choice a:hover{
+    color: #E5BB22;
+    font-weight:700;
+}
